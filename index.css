@@ -170,7 +170,6 @@ header ul a:hover{
     border: 1px solid #72a1de81;
     background-color: #2200493d;
     box-shadow: 0 0 5px #72a1de81;
-    cursor: pointer;
     transition: 0.3s;
 }
 
@@ -1169,7 +1168,7 @@ header ul a:hover{
     }
 
     .section-title {
-        font-size: 10px;
+        font-size: 30px;
         margin-bottom: -10px;
     }
 
